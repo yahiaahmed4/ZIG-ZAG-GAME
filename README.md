@@ -1,0 +1,2 @@
+# ZIG-ZAG-GAME
+ Welcome to the Zig-Zag Unity Game repository! Zig-Zag is an exhilarating arcade-style game where players navigate a character along a one-lane road that slopes rapidly left and right. The challenge lies in maintaining balance and precision as the road twists and turns at breakneck speeds. Developed using the Unity game engine and programmed in C#, this repository contains all the resources needed to build and customize your own version of this addictive game. Get ready to test your reflexes and agility in this thrilling journey down the Zig-Zag road!
